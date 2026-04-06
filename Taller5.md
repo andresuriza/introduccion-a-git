@@ -12,3 +12,7 @@ Casas, edificios y distintos lugares donde se ocupe acceder con un vehiculo.
 
 - Sensor infrarojo: recibe señal de botón del control
 - Sensor de proximidad que evita cerrar si algún objeto o persona se encuentra en medio del portón.
+
+## Salidas
+
+- Controlador: Es el que actua en el momento que se detectan las señales de las entradas, y decide la velocidad que se mueve el porton, o si se detiene por la señal del sensor.
